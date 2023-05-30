@@ -13,7 +13,7 @@
 /out/
 
 # src/components/firebaseConfig.js
-src/components/FirebaseContext.js
+# src/components/FirebaseContext.js
 # production
 /build
 
